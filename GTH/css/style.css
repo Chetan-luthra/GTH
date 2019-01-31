@@ -7,9 +7,6 @@ body{
     padding-left: 1rem;
     padding-right: 1rem;
 }
-.navbar .nav-item.active {
-  border-left: #444 3px solid;
-}
 .navbar .nav-item-active{
     border-left: #444 3px solid;
 }
